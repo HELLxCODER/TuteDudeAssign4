@@ -8,6 +8,11 @@ Task1:- Read and file and handel error
       Image 1:- shows the output displayed before the file was created  
       Image 2:- shows the text in the file after the file is created  
       Image 3:- shows the output displayed after the file is created and read using the file_name.read() function.  
+
+Task2:- Write and Append data to a file  
+      Explanation:- First a file named "Output.txt" then this program is written to open the file and write the first thing into the file which is given by
+      the user, the some more text is appeneded into the file which is also given by the user. (Both the file and Task2.py is added to the repo). And then finally the data in the file is 
+      read and output is given in the terminal.
       
 
 
