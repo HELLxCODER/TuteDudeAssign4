@@ -1,4 +1,4 @@
-Task1:- Read and file and handel error
+Task1:- Read and file and handel error  
       Explanation:- This code is used for reading a file and also does exception handeling for the "FileNotFound" error
       this is done using the try, except block and using the finally keyword we print the final print statements.
       This is done to a file named file1.txt, which is present in the same location as the Task1.py is present (file1.py is also attached in the repo)
