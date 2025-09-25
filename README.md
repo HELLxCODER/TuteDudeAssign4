@@ -4,9 +4,9 @@ Task1:- Read and file and handel error
       This is done to a file named file1.txt, which is present in the same location as the Task1.py is present (file1.py is also attached in the repo)
       <img width="777" height="93" alt="image" src="https://github.com/user-attachments/assets/f8803d0d-c048-441a-8fa4-b61d6c7b8180" />
       <img width="810" height="226" alt="image" src="https://github.com/user-attachments/assets/c1891c09-8bfe-4b26-a52c-5b1c5c83b0ba" />
-      <img width="784" height="113" alt="image" src="https://github.com/user-attachments/assets/1fa10e15-22f4-4ca8-baf9-524ef42bf9aa" />
-      Image 1:- shows the output displayed before the file was created
-      Image 2:- shows the text in the file after the file is created
+      <img width="784" height="113" alt="image" src="https://github.com/user-attachments/assets/1fa10e15-22f4-4ca8-baf9-524ef42bf9aa" />\n
+      Image 1:- shows the output displayed before the file was created\n
+      Image 2:- shows the text in the file after the file is created\n
       Image 3:- shows the output displayed after the file is created and read using the file_name.read() function.
       
 
